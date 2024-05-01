@@ -20,7 +20,8 @@ curl_close($ch);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Steven Estrenos Marvel</title>
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/pico.min.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
